@@ -17,4 +17,5 @@ Technical Skills
 - Statistical Analysis : Hands-on experience with key statistical techniques in Descriptive and Inferential Analysis like Hypothesis Testing, Correlation, Regression, ANOVA etc.
 
 
-📫 How to reach me: shashankmenon21@gmail.com   Let's connect on LinkedIn to discuss more on Data Analytics.   https://www.linkedin.com/in/shashank-menon/
+📫 How to reach me: shashankmenon21@gmail.com   
+Let's connect on LinkedIn to discuss more on Data Analytics.   https://www.linkedin.com/in/shashank-menon/
